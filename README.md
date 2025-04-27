@@ -1,5 +1,9 @@
 VEŠKERÝ OBSAH TÉTO SLOŽKY BYL GENEROVÁN MODELEM CLAUDE SONET 3.5
 
+OBSHA: 
+1) kód čištění dat + dataset syntetických dat 
+2) kód 
+
 ## ČIŠTĚNÍ
 
 Vytvořil jsem pro vás komplexní ukázku dat a kódu pro čištění fyzikálních dat pomocí AI technik. Poskytnuté materiály zahrnují:
