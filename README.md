@@ -1,8 +1,8 @@
 VEŠKERÝ OBSAH TÉTO SLOŽKY BYL GENEROVÁN MODELEM CLAUDE SONET 3.5
 
 OBSHA: 
-1) kód čištění dat + dataset syntetických dat 
-2) kód 
+1) kód čištění dat (čištění.py) + dataset syntetických dat (noisy-tokamak-data.csv)
+2) kód vizualizace (vizualizace.py) + dataset snytetických dat (tokamak-data-clena.csv)
 
 ## ČIŠTĚNÍ
 
